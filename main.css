@@ -1,0 +1,28 @@
+/* CSS reset */
+
+* {
+  box-sizing:border-box;
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    background: aqua url('assets/freedom.jpg') no-repeat fixed center center;
+    background-size: cover;
+}
+
+blockquote {
+  color: rgba(50, 50, 50, .8);
+  font-size: 2.9em;
+  line-height: 1.3;
+  margin: 5% auto;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 1.5em;
+  font-style: italic;
+  text-align: center;
+}
